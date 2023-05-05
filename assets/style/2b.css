@@ -1,0 +1,165 @@
+.request-now-button{ 
+  background-color:black;
+  color:white;
+  border: none;
+  height: 30px;
+  width:100px;
+  font-weight: 500;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  transition : 0.5s;
+  }
+
+  .request-now-button:hover
+  {opacity: 0.6;
+  background-color: black;
+  color: white;}
+
+  .request-now-button:active
+  {opacity: 0.5;}
+
+  .add-to-cart-button{ 
+  background-color:rgb(255, 187, 27);
+  color:black;
+  border: none;
+  height: 30px;
+  width:125px;
+  font-weight: bold;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+  }
+  
+  .add-to-cart-button:hover
+  {background-color:rgb(255, 200, 20);}
+
+.add-to-cart-button:active
+{background-color: white;
+  text-emphasis-color: black;
+color:#065fd4;
+border:solid;
+border-width: 1px;}
+
+  .sign-up-button{ 
+  background-color: rgb(46, 164, 79);
+  color:white;
+  border: none;
+  height: 30px;
+  width:70px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  transition: box-shadow 0.4s;
+  }
+
+  .sign-up-button:hover
+  { box-shadow: 
+    2px 2px 7px rgba(0, 0, 0, 0.2);
+  }
+
+  .sign-up-button:hover
+  {opacity: 0.8;
+  background-color:rgb(3, 150, 45)}
+
+  .sign-up-button:active 
+  {background-color: rgb(54, 199, 95);
+}
+
+  .get-started-button{ 
+  background-color: rgb(121, 82, 179);
+  color:white;
+  border: none;
+  height: 30px;
+  width:90px;
+  font-weight: bold;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  transition: 0.5s;
+  }
+
+  .get-started-button:hover 
+  {background-color: rgb(95, 57, 151)
+  }
+
+  .get-started-button:active
+  {background-color: rgb(160, 105, 241) }
+  
+
+  .download-button{ 
+  background-color:white;
+  color: rgb(108, 117, 125);
+  border: solid;
+  height: 30px;
+  width:90px;
+  font-weight: bold;
+  font-family: Roboto, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 1px;
+  border-width: 1px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  transition: 0.5s;
+  }
+
+  .download-button:hover
+  {background-color:rgb(108, 117, 125);
+  color:white;}
+
+  .apply-on-company-website-button{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border-width: 1px; 
+    border-color:#065fd4; 
+    border-style: solid;
+    height: 30px;
+    width: 205px;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    transition: 0.5s;
+  }
+
+  .apply-on-company-website-button:hover
+  {background-color:rgb(3, 74, 146);}
+
+  .save-button{ 
+  background-color:white;
+  color: #1A8CD8;
+  border: solid;
+  height: 30px;
+  line-height: 20px;
+  width: 80px;
+  font-weight: bold;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  border-radius: 20px;
+  border-width: 1px;
+  cursor: pointer;
+  transition: 0.5s;
+  }
+
+  .save-button:hover
+  {opacity: 1;
+  background-color:rgb(226, 240, 254);
+  border-width: 1.5px;}

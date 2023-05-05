@@ -1,0 +1,83 @@
+
+    .subscribe-button{ 
+      background-color:#CC0000;
+      color:white;
+      border: none;
+      size: 14px;
+      font-weight: 500px;
+      font-family: Roboto, Arial, sans-serif;
+      font-style: normal;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-right: 10px;
+      margin-left: 10px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      padding-left: 16px;
+      padding-right: 16px;
+      transition: opacity 0.2s;
+      vertical-align: top;
+      }
+      
+      .subscribe-button:hover
+      {opacity: 0.7;}
+      .subscribe-button:active
+      {opacity: 0.5;}
+    
+      .join-button{
+        background-color: white;
+        color: #065fd4;
+        border-width: 1px; 
+        border-color:#065fd4; 
+        border-style: solid;
+        size: 14px;
+        font-weight: 500px;
+        font-style: normal;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background-color 0.5s,
+        color 0.5s;
+        vertical-align: top;
+        padding-top:7px;
+        padding-bottom: 7px;
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+    
+      .join-button:hover
+      {opacity: 0.7;
+      background-color: #065fd4;
+      color: white}
+    
+      .join-button:active
+      {opacity: 0.5;}
+    
+      .tweet-button{ 
+      background-color:#1A8CD8;
+      color:white;
+      border: none;
+      font-size: 15px;
+      font-weight: 700px;
+      font-family: Roboto, Helvetica, Arial, sans-serif;
+      font-style: normal;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: box-shadow 0.5s;
+      vertical-align: top;
+      padding-top:7px;
+        padding-bottom: 7px;
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+    
+      .tweet-button:hover
+      { box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.15);}
+      
+      .tweet-button:hover
+      { opacity: 0.6;
+      background-color: #065fd4;}
+    
+      .tweet-button:active
+      {opacity: 0.5;}
+  
